@@ -1,0 +1,6 @@
+make test_trs_iso --dry-run --keep-going --print-directory
+make: Entering directory '/home/vivi/traceable-isogeny/traceable-isogeny'
+(cd XKCP; make Haswell/libkeccak.a)
+gcc -o test_trs_iso seedtree.c lrsign.c rsign.c trsign.c  test.c -I XKCP/bin/Haswell/ -I ClassGroupAction/p512/ -I ClassGroupAction/ -DTEST_TRACEABLE -DISOGENY -L ClassGroupAction/ -lclassgroup -L XKCP/bin/Haswell/ -lgmp -lkeccak -lcrypto -std=c11 -O3 -g -march=native 
+make: Leaving directory '/home/vivi/traceable-isogeny/traceable-isogeny'
+ 

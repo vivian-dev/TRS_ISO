@@ -1,0 +1,226 @@
+LRS
+===================================================
+The size of ring 2 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       99963088 
+keygen time :         40.0 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      61567810738 
+signing time :        24664.9 ms 
+
+signature size :      3646 bytes 
+
+verification cycles : 59764540368 
+verification time :   23944.0 ms 
+restarts: 0 
+===================================================
+The size of ring 4 
+PK BYTES 64 
+SK BYTES 16 
+
+keygen cycles :       106492238 
+keygen time :         42.7 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      100182981695 
+signing time :        40136.9 ms 
+
+signature size :      4654 bytes 
+
+verification cycles : 93721886804 
+verification time :   37548.6 ms 
+restarts: 0 
+===================================================
+The size of ring 8 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       99467270 
+keygen time :         39.9 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      181356182066 
+signing time :        72658.1 ms 
+
+signature size :      5694 bytes 
+
+verification cycles : 164249585785 
+verification time :   65804.8 ms 
+restarts: 0 
+===================================================
+The size of ring 16 
+PK BYTES 64 
+SK BYTES 16 
+
+keygen cycles :       95100156 
+keygen time :         38.1 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      335595264829 
+signing time :        134451.6 ms 
+
+signature size :      6670 bytes 
+
+verification cycles : 299593826934 
+verification time :   120000.8 ms 
+restarts: 0 
+===================================================
+The size of ring 32 
+PK BYTES 64 
+SK BYTES 16 
+
+keygen cycles :       99223263 
+keygen time :         39.7 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      649600750302 
+signing time :        260194.7 ms 
+
+signature size :      7566 bytes 
+
+verification cycles : 573115949647 
+verification time :   229560.1 ms 
+restarts: 0 
+===================================================
+The size of ring 64 
+PK BYTES 64 
+SK BYTES 16  
+keygen cycles :       102679837 
+keygen time :         41.1 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      1286972709016 
+signing time :        515487.6 ms 
+
+signature size :      8510 bytes 
+
+verification cycles : 1130319749360 
+verification time :   452743.7 ms 
+restarts: 0 
+
+
+RS
+===================================================
+The size of ring 2 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       96457444 
+keygen time :         38.6 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      41315061813 
+signing time :        16552.0 ms 
+
+signature size :      3614 bytes 
+
+verification cycles : 38461392644 
+verification time :   15408.9 ms 
+restarts: 0 
+===================================================
+The size of ring 4 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       94753949 
+keygen time :         38.0 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      80771320706 
+signing time :        32359.4 ms 
+
+signature size :      4574 bytes 
+
+verification cycles : 73732257063 
+verification time :   29539.4 ms 
+restarts: 0 
+===================================================
+The size of ring 8 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       92612181 
+keygen time :         37.1 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      159536852342 
+signing time :        63915.5 ms 
+
+signature size :      5646 bytes 
+
+verification cycles : 141301532519 
+verification time :   56609.9 ms 
+restarts: 0 
+===================================================
+The size of ring 16 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       85765677 
+keygen time :         34.4 ms 
+
+==============================signing #0 
+=============================verify #0 
+signature #0 verify successfully! 
+signing cycles :      316617411949 
+signing time :        126847.0 ms 
+
+signature size :      6574 bytes 
+
+verification cycles : 284234356722 
+verification time :   113873.3 ms 
+restarts: 0 
+===================================================
+The size of ring 32 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       87558780 
+keygen time :         35.1 ms 
+
+==============================signing #0 
+=============================verify #0 
+
+signature #0 verify successfully! 
+signing cycles :      633436078826 
+signing time :        253775.2 ms 
+
+signature size :      7422 bytes 
+
+verification cycles : 560340169542 
+verification time :   224490.0 ms 
+restarts: 0 
+===================================================
+The size of ring 64 
+PK BYTES 64 
+SK BYTES 16 
+keygen cycles :       85345606 
+keygen time :         34.2 ms 
+
+==============================signing #0 
+
+=============================verify #0 
+
+signature #0 verify successfully! 
+signing cycles :      1282260925018 
+signing time :        513698.7 ms 
+
+signature size :      8446 bytes 
+
+verification cycles : 1135713789774 
+verification time :   454968.1 ms 
+restarts: 0 
